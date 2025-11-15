@@ -19,7 +19,7 @@ jobs:
       # 3D貢献グラフを生成
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-　　　　　　# Repository secrets に登録が必要
+          # Repository secrets に登録が必要
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           # 実行対象のGitHubユーザー名。自動でリポジトリ所有者を取得
           USERNAME: ${{ github.repository_owner }}
