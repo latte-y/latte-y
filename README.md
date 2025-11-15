@@ -35,7 +35,7 @@ Please contact with me on [Linkedin](https://www.linkedin.com/in/yuki-nakamura-9
 ## Contaxt ✉️
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/yuki-nakamura-91080228b/?trk=opento_sprofile_topcard)
 
----
 
-_Last updated: 2025-11-15_
-
+## Contributions 🔥
+<!-- 3D Contributions -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3D Contributions (dark)" />
